@@ -20,6 +20,7 @@ function NavB({setInputSearch,setInputStars}) {
           >
             <Nav.Link href="#action1">Home</Nav.Link>
             <Nav.Link href="#action1">Profile</Nav.Link>
+            <Nav.Link href="#action1">explore</Nav.Link>
             <Nav.Link href="#action2">Link</Nav.Link>
             
             <NavDropdown.Divider />
