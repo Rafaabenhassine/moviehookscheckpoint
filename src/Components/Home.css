@@ -1,0 +1,12 @@
+.center {
+    display: flex;
+    justify-content: center;
+  }
+  
+  img {
+    height: 500px;
+    width: auto;
+  }
+  .card-img, .card-img-top {
+    margin-top: 0rem;
+  }
